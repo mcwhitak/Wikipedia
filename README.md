@@ -10,3 +10,6 @@ Interesting, Strange, Fun Wikipedia Pages
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
+
+## Adages/Anecdotes
+- [Cobra Effect](https://en.wikipedia.org/wiki/Cobra_effect)
