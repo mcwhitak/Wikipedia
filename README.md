@@ -6,7 +6,7 @@ Interesting, Strange, Fun Wikipedia Pages
 
 ## History
 - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
-- [The Great Emu War](https://en.wikipedia.org/wiki/Emu_War)
+- [The Emu War](https://en.wikipedia.org/wiki/Emu_War)
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
