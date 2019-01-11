@@ -6,3 +6,6 @@ Interesting, Strange, Fun Wikipedia Pages
 
 ## History
 - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
+
+## Economics
+- [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
