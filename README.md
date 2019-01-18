@@ -14,3 +14,6 @@ Interesting, Strange, Fun Wikipedia Pages
 
 ## Adages/Anecdotes
 - [Cobra Effect](https://en.wikipedia.org/wiki/Cobra_effect)
+
+## Media/Entertainment
+- [Entertainment Affected by 9/11](https://en.wikipedia.org/wiki/List_of_entertainment_affected_by_the_September_11_attacks)
