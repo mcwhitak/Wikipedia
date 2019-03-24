@@ -11,6 +11,7 @@ Interesting, Strange, Fun Wikipedia Pages
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
+- [Keynesian Beauty Contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 
 ## Adages/Anecdotes
 - [Cobra Effect](https://en.wikipedia.org/wiki/Cobra_effect)
