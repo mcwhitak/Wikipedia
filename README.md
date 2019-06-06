@@ -8,6 +8,7 @@ Interesting, Strange, Fun Wikipedia Pages
 - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
 - [The Emu War](https://en.wikipedia.org/wiki/Emu_War)
 - [Four Pests Campaign](https://en.wikipedia.org/wiki/Four_Pests_Campaign)
+- [Inventors Killed by Their Inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
