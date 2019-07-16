@@ -9,6 +9,7 @@ Interesting, Strange, Fun Wikipedia Pages
 - [The Emu War](https://en.wikipedia.org/wiki/Emu_War)
 - [Four Pests Campaign](https://en.wikipedia.org/wiki/Four_Pests_Campaign)
 - [Inventors Killed by Their Inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
+- [Out of Place Artifacts](https://en.wikipedia.org/wiki/Out-of-place_artifact)
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
