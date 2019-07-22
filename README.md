@@ -10,6 +10,7 @@ Interesting, Strange, Fun Wikipedia Pages
 - [Four Pests Campaign](https://en.wikipedia.org/wiki/Four_Pests_Campaign)
 - [Inventors Killed by Their Inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
 - [Out of Place Artifacts](https://en.wikipedia.org/wiki/Out-of-place_artifact)
+- [The Great Stink](https://en.wikipedia.org/wiki/Great_Stink)
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
