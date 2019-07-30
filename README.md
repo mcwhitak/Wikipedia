@@ -12,8 +12,9 @@ Interesting, Strange, Fun Wikipedia Pages
 - [Out of Place Artifacts](https://en.wikipedia.org/wiki/Out-of-place_artifact)
 - [The Great Stink](https://en.wikipedia.org/wiki/Great_Stink)
 
-## Technology
+## Technology/Computing
 - [Sloot Encoding System](https://en.wikipedia.org/wiki/Jan_Sloot)
+- [Fluidics](https://en.wikipedia.org/wiki/Fluidics)
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
