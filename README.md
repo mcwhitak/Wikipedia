@@ -3,7 +3,7 @@ Interesting, Strange, Fun Wikipedia Pages
 
 ## Geography
 - [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-- [Zone of Death](https://en.m.wikipedia.org/wiki/Zone_of_Death_(legal))
+- [Zone of Death](https://en.wikipedia.org/wiki/Zone_of_Death_(legal))
 
 ## History
 - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
