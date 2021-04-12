@@ -16,6 +16,7 @@ Interesting, Strange, Fun Wikipedia Pages
 ## Technology/Computing
 - [Sloot Encoding System](https://en.wikipedia.org/wiki/Jan_Sloot)
 - [Fluidics](https://en.wikipedia.org/wiki/Fluidics)
+- [Illegal Prime Numbers](https://en.wikipedia.org/wiki/Illegal_prime)
 
 ## Economics
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony)
